@@ -1,14 +1,14 @@
 # Hi, I'm Uzair 👋
 
-Mechatronics Engineering student at **NUST CEME** (Class of '26), Pakistan.
+Mechatronics Engineering student at **NUST CEME** (Class of '29), Pakistan.
 I build things at the intersection of hardware and software —
 drones, robots, embedded systems, and data tools.
 
 ## 🔧 What I work with
 - **Embedded:** ESP32, C++, sensor integration, firmware development
 - **Software:** Python, data analysis, ML (Linear Regression, scikit-learn)
-- **Design:** AutoCAD, SolidWorks (Certified)
-- **Other:** MATLAB, Simulink, ROS
+- **Design:** AutoCAD, SolidWork
+- **Other:** MATLAB, Simulink, 
 
 ## 🚀 Projects
 | Project | Description | Tech |
