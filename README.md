@@ -15,7 +15,7 @@ drones, robots, embedded systems, and data tools.
 |--------|-------------|------|
 | [SP100 Stock Predictor](https://github.com/Uzair458/sp100-stock-predictor/tree/main) | Price prediction model for S&P 100 index — R² of 0.979 | Python, scikit-learn |
 | [Line Following Robot](https://github.com/uzair-baig/lfr-robot) | QTR sensor array + PID control firmware | C++, Arduino |
-| [Quadcopter CAD Model](https://github.com/uzair-baig/drone-autocad) | Full 2D/3D drone assembly in AutoCAD | AutoCAD |
+| [Quadcopter CAD Model](https://github.com/Uzair458/quadcopter-cad-autocad/tree/main) | Full 2D/3D drone assembly in AutoCAD | AutoCAD |
 
 ## 📜 Certifications
 - Harvard CS50 (Introduction to Computer Science)
