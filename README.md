@@ -4,7 +4,7 @@ Mechatronics Engineering student at **NUST CEME** (Class of '29), Pakistan.
 I build things at the intersection of hardware and software —
 drones, robots, embedded systems, and data tools.
 
-## 🔧 What I work with
+## 🔧 What I work with 
 - **Embedded:** ESP32, C++, sensor integration, firmware development
 - **Software:** Python, data analysis, ML (Linear Regression, scikit-learn)
 - **Design:** AutoCAD, SolidWork
@@ -21,6 +21,7 @@ drones, robots, embedded systems, and data tools.
 - Harvard CS50 (Introduction to Computer Science)
 - MATLAB Onramp — MathWorks
 - Simulink Onramp — MathWorks
-
+- 3DSwymer Associate — Dassault Systèmes
+- AI Fluency: Framework & Foundations — Anthropic
 ## 📫 Let's connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Uzair_Baig-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mirza-uzair-mehmood-baig-913b25383/)
